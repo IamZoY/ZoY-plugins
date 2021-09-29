@@ -1,1 +1,40 @@
-[{"projectUrl":"https://discord.gg/jHueD8YGKU","provider":"ZoY#9912","name":"UG Curse Alch","description":"Auto Curse Alch, that supports high alching item and cursing an NPC","id":"ugcursealch-plugin","releases":[{"date":"2021-03-07","sha512sum":"D1244D7924A962C78CD1CAC49F07E794917AD580025D22AD13FAB72B9BA926258C5272099CFACA106194C3EB3862979534C66300EB2BEF72F47F78995DCE9B00","version":"0.0.7","url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zcursealch-0.0.7.jar?raw=true","requires":"^1.0.0"}]}, {"projectUrl":"https://discord.gg/jHueD8YGKU","provider":"ZoY#9912","name":"UG Flax Spinner","description":"still developing it","id":"ugflaxspinner-plugin","releases":[{"date":"2021-03-07","sha512sum":"53CBBA8F387380CFCA6E0D594D5528E191C5356E19F9F5CEA95F99BEB99350E8E5AC707769B26024DF34A4C00D4995D6396A678631A50FC5FE889D0E5E26D007","version":"0.0.5","url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zflaxspinner-0.0.5.jar?raw=true","requires":"^1.0.0"}]}, {"projectUrl":"https://discord.gg/jHueD8YGKU","provider":"ZoY#9912","name":"UG Food Eater","description":"Can do Lots of things combined.","id":"ugfoodeater-plugin","releases":[{"date":"2021-03-07","sha512sum":"129C2C5AAF3B56E9AA893F0637A8AEA70CBDA004B3C322B55B6652438B8561426CBC6819E6A1BA28B771927578D189BC29EEF4B8C749CC4A6684FBBF2F5495DB","version":"0.1.4","url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zfoodeater-0.1.4.jar?raw=true","requires":"^1.0.0"}]}, {"projectUrl":"https://discord.gg/jHueD8YGKU","provider":"ZoY#9912","name":"UG Keg Balance","description":"An automation utility for Keg Balancing","id":"ugkegbalance-plugin","releases":[{"date":"2021-03-07","sha512sum":"31558E9DE27936D65BBE76392512866757F4D82CBC8A32E979FF0D25E3CE0F80ECE626EA88F22E9677483CE930B914B64A15CB020D7310E69CFF2BF3F58829A3","version":"0.0.6","url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zkegbalance-0.0.6.jar?raw=true","requires":"^1.0.0"}]}]
+[{"projectUrl":"https://discord.gg/jHueD8YGKU",
+  "provider":"ZoY#9912",
+  "name":"UG Curse Alch",
+  "description":"Auto Curse Alch, that supports high alching item and cursing an NPC",
+  "id":"ugcursealch-plugin",
+  "releases":
+  [{"date":"2021-03-07","sha512sum":"D1244D7924A962C78CD1CAC49F07E794917AD580025D22AD13FAB72B9BA926258C5272099CFACA106194C3EB3862979534C66300EB2BEF72F47F78995DCE9B00",
+    "version":"0.0.7",
+    "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zcursealch-0.0.7.jar?raw=true",
+    "requires":"^1.0.0"}]},
+
+  {"projectUrl":"https://discord.gg/jHueD8YGKU",
+    "provider":"ZoY#9912","name":"UG Flax Spinner",
+    "description":"still developing it",
+    "id":"ugflaxspinner-plugin","releases":
+  [{"date":"2021-03-07",
+    "sha512sum":"53CBBA8F387380CFCA6E0D594D5528E191C5356E19F9F5CEA95F99BEB99350E8E5AC707769B26024DF34A4C00D4995D6396A678631A50FC5FE889D0E5E26D007",
+    "version":"0.0.5",
+    "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zflaxspinner-0.0.5.jar?raw=true",
+    "requires":"^1.0.0"}]},
+
+  {"projectUrl":"https://discord.gg/jHueD8YGKU",
+    "provider":"ZoY#9912","name":"UG Food Eater",
+    "description":"Can do Lots of things combined.",
+    "id":"ugfoodeater-plugin","releases":
+  [{"date":"2021-03-07",
+    "sha512sum":"129C2C5AAF3B56E9AA893F0637A8AEA70CBDA004B3C322B55B6652438B8561426CBC6819E6A1BA28B771927578D189BC29EEF4B8C749CC4A6684FBBF2F5495DB",
+    "version":"0.1.4",
+    "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zfoodeater-0.1.4.jar?raw=true","requires":"^1.0.0"}]},
+
+  {"projectUrl":"https://discord.gg/jHueD8YGKU",
+    "provider":"ZoY#9912",
+    "name":"UG Keg Balance",
+    "description":"An automation utility for Keg Balancing",
+    "id":"ugkegbalance-plugin",
+    "releases":[{"date":"2021-03-07",
+      "sha512sum":"31558E9DE27936D65BBE76392512866757F4D82CBC8A32E979FF0D25E3CE0F80ECE626EA88F22E9677483CE930B914B64A15CB020D7310E69CFF2BF3F58829A3",
+      "version":"0.0.6",
+      "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zkegbalance-0.0.6.jar?raw=true",
+      "requires":"^1.0.0"}]}]
