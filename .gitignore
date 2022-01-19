@@ -36,3 +36,6 @@ gradle/wrapper/gradle-wrapper.jar
 *.iml
 *.xml
 **/.idea/*
+iutils/src/main/resources/transports.txt
+iutils/src/main/resources/reflection.gz
+iutils/src/main/resources/collision-map
