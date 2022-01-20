@@ -6,7 +6,7 @@
   "id":"ugkarambwanfisher-plugin",
   "releases":[{
     "date":"2022-01-20",
-    "sha512sum":"22319f2e3105dd2b3f5c6880204c98760928d497ea590db2fafa34aab7fb77d19cbd1282e2ab6e152264e0ad08d394afeee1cdb7db6897455a84e8242abc44a9",
+    "sha512sum":"7313c65f8693a8b5c98545a3e57e27a796b014b3d0a6162a0a2e9813c21a1dcebe0bd38b07ea74111bb175ee9ba0b7751dca888bcad5a50848401cf220f6bfce",
     "version":"1.0.0",
     "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/ugkarambwanfisher-1.0.0.jar?raw=true",
     "requires":"^1.0.0"
