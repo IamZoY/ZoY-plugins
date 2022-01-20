@@ -8,7 +8,7 @@
     "date":"2022-01-20",
     "sha512sum":"e6759957148502569b91a6f294dc9e193e661cef87bbf5ab2de3e0f27654c40899dd4caa13db159f70a9b123f8b8b2fe5f91d31fb4e67ac3a445749ad3f35bcc",
     "version":"1.0.0",
-    "url":"https://github.com/illumineawake/illu-plugins/blob/master/release/ugkarambwanfisher-1.0.0.jar?raw=true",
+    "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/ugkarambwanfisher-1.0.0.jar?raw=true",
     "requires":"^1.0.0"
   }]}, {
   "projectUrl":"https://discord.gg/jHueD8YGKU",
@@ -20,7 +20,7 @@
     "date":"2022-01-20",
     "sha512sum":"0956FD5432CD22B3585D177FE9AA409147BE9CDA03AAFF08ABD45ECFB519CCD35CBD37EBABD9B0E49BCB7932895A3ADF71809B0C26B360BE07B783069906A86A",
     "version":"0.0.8",
-    "url":"https://github.com/illumineawake/illu-plugins/blob/master/release/zcursealch-0.0.8.jar?raw=true",
+    "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zcursealch-0.0.8.jar?raw=true",
     "requires":"^1.0.0"
   }]}, {
   "projectUrl":"https://discord.gg/jHueD8YGKU",
@@ -31,6 +31,6 @@
   "releases":[{"date":"2022-01-20",
     "sha512sum":"B303A307CD37790E6153CC3A296DF66960639C18E94969C99BA3D45502F9CBD3E70919904C738D2AEE44D99F8D451166DD525FDB2A9A77910C486DEE6826CCA0",
     "version":"0.0.7",
-    "url":"https://github.com/illumineawake/illu-plugins/blob/master/release/zkegbalance-0.0.7.jar?raw=true",
+    "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zkegbalance-0.0.7.jar?raw=true",
     "requires":"^1.0.0"
   }]}]
