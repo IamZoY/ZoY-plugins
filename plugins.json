@@ -5,10 +5,10 @@
   "description":"Beta.",
   "id":"ugkarambwanfisher-plugin",
   "releases":[{
-    "date":"2022-01-20",
-    "sha512sum":"e105bb00e6b28bba15e16a2346511a3bdfedb4f7b5930eb388f299a2878765bcc84c1683cb52e7cdcffe97000cd8ee49b3c342c9d80bc4b7a04ccd41ed0645b7",
-    "version":"1.0.1",
-    "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/ugkarambwanfisher-1.0.1.jar?raw=true",
+    "date":"2022-03-27",
+    "sha512sum":"5a46b48727ad81555e2b15b0a5074a96c408b3757a22827baaf65ec96d6aa3e7069f77fb23b0b06a1ec3c1c46caaddd64597a1dd616cca11cc6c47746deea1a7",
+    "version":"1.0.2",
+    "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/ugkarambwanfisher-1.0.0.jar?raw=true",
     "requires":"^1.0.0"
   }]}, {
   "projectUrl":"https://discord.gg/jHueD8YGKU",
@@ -17,9 +17,9 @@
   "description":"Auto Curse Alch, that supports high alching item and cursing an NPC",
   "id":"ugcursealch-plugin",
   "releases":[{
-    "date":"2022-01-20",
-    "sha512sum":"0956FD5432CD22B3585D177FE9AA409147BE9CDA03AAFF08ABD45ECFB519CCD35CBD37EBABD9B0E49BCB7932895A3ADF71809B0C26B360BE07B783069906A86A",
-    "version":"0.0.8",
+    "date":"2022-03-27",
+    "sha512sum":"0970202216260675864c70820ef93a2a644e67f53f13e57c477932e9db7b2abef1236923c64a9d4100afff95d99d5398ab9917c8954e5fd0a07766c3cc3077d7",
+    "version":"0.0.9",
     "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zcursealch-0.0.8.jar?raw=true",
     "requires":"^1.0.0"
   }]}, {
