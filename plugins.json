@@ -6,7 +6,7 @@
   "id":"ugkarambwanfisher-plugin",
   "releases":[{
     "date":"2022-03-27",
-    "sha512sum":"5a46b48727ad81555e2b15b0a5074a96c408b3757a22827baaf65ec96d6aa3e7069f77fb23b0b06a1ec3c1c46caaddd64597a1dd616cca11cc6c47746deea1a7",
+    "sha512sum":"5A46B48727AD81555E2B15B0A5074A96C408B3757A22827BAAF65EC96D6AA3E7069F77FB23B0B06A1EC3C1C46CAADDD64597A1DD616CCA11CC6C47746DEEA1A7",
     "version":"1.0.2",
     "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/ugkarambwanfisher-1.0.2.jar?raw=true",
     "requires":"^1.0.0"
@@ -18,7 +18,7 @@
   "id":"ugcursealch-plugin",
   "releases":[{
     "date":"2022-03-27",
-    "sha512sum":"0970202216260675864c70820ef93a2a644e67f53f13e57c477932e9db7b2abef1236923c64a9d4100afff95d99d5398ab9917c8954e5fd0a07766c3cc3077d7",
+    "sha512sum":"0970202216260675864C70820EF93A2A644E67F53F13E57C477932E9DB7B2ABEF1236923C64A9D4100AFFF95D99D5398AB9917C8954E5FD0A07766C3CC3077D7",
     "version":"0.0.9",
     "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zcursealch-0.0.9.jar?raw=true",
     "requires":"^1.0.0"
