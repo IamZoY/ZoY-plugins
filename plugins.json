@@ -17,10 +17,10 @@
   "description":"Auto Curse Alch, that supports high alching item and cursing an NPC",
   "id":"ugcursealch-plugin",
   "releases":[{
-    "date":"2022-03-27",
-    "sha512sum":"0970202216260675864C70820EF93A2A644E67F53F13E57C477932E9DB7B2ABEF1236923C64A9D4100AFFF95D99D5398AB9917C8954E5FD0A07766C3CC3077D7",
-    "version":"0.0.9",
-    "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zcursealch-0.0.9.jar?raw=true",
+    "date":"2022-05-29",
+    "sha512sum":"28AFE1D2B3ABFDA4B22CD8CBB3F52C54AD9AAD00161CF468F02DC0AD3A76E5E39EFF33F02EE5F3A313A58B4048B39F78AFB225B427ACC413381262C78A72C8DC",
+    "version":"0.1.0",
+    "url":"https://github.com/IamZoY/ZoY-plugins/blob/master/release/zcursealch-0.1.0.jar?raw=true",
     "requires":"^1.0.0"
   }]}, {
   "projectUrl":"https://discord.gg/jHueD8YGKU",
